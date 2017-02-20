@@ -30,3 +30,12 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Descripción breve del trabajo**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre la tasa de natalidad, el salario medio y el gasto en educación.
 - **Repositiorio**: [SOS1617/SOS1617-07](https://github.com/SOS1617/SOS1617-07)
 - **URL**: [por determinar](#)
+- 
+## SOS1617-08
+
+- **Integrantes**
+  - [Roberto Mantas Nakhai] (https://github.com/RobertoMantas)
+  - [Francisco Varela Lucena](https://github.com/fravarluc)
+- **Descripción breve del trabajo**: Análisis y relación de víctimas de violencia de género y salarios medio de distintos países por distintos años.
+- **Repositiorio**: [SOS1617/SOS1617-08](https://github.com/SOS1617/SOS1617-08)
+- **URL**:[por determinar](#)
