@@ -13,6 +13,17 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **URL**: [por determinar](#)
 
 =======
+
+## SOS1617-01
+
+- **Integrantes**
+  - [Irene Pavón Fernández](https://github.com/1993irene)
+  - [Beatriz Ruiz Reina](https://github.com/alumno-sos-1)
+  - [Alberto Rodríguez González](https://github.com/alumno-sos-1)
+- **Descripción breve del trabajo**: pruebas para SOS
+- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-00)
+- **URL**: [por determinar](#)
+
 ## SOS1617-02
 
 - **Integrantes**
