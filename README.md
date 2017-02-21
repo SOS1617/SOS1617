@@ -39,7 +39,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [Luis García Zafra](https://github.com/luisgzafra)
   - [Alberto Sánchez Pérez ](https://github.com/albsanper)
-  - [*Completar*](https://github.com/Usuario2)
+  - [Adrián Méndez Ortiz](https://github.com/AdrianMnd)
 - **Descripción breve del trabajo**: Analizar la relación que existe entre las previsiones de superficies, producciones, exportacion y precio del aceite de cada provincia de Andalucía. 
 - **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-04)
 - **URL**: [por determinar](#)
