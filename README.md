@@ -91,7 +91,6 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-11)
 - **URL**: [por determinar](#)
 
-=======
 
 ## SOS1617-12
 
