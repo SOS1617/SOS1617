@@ -19,9 +19,9 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [Irene Pavón Fernández](https://github.com/1993irene)
   - [Beatriz Ruiz Reina](https://github.com/alumno-sos-1)
-  - [Alberto Rodríguez González](https://github.com/alumno-sos-1)
-- **Descripción breve del trabajo**: pruebas para SOS
-- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-00)
+  - [Alberto Rodríguez González](https://github.com/AlbertoAxel)
+- **Descripción breve del trabajo**: Análisis del mercado de los videojuegos, con el paro juvenil y el nivel de Startups.
+- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-01)
 - **URL**: [por determinar](#)
 
 ## SOS1617-02
@@ -39,7 +39,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [Luis García Zafra](https://github.com/luisgzafra)
   - [Alberto Sánchez Pérez ](https://github.com/albsanper)
-  - [*Completar*](https://github.com/Usuario2)
+  - [Adrián Méndez Ortiz](https://github.com/AdrianMnd)
 - **Descripción breve del trabajo**: Analizar la relación que existe entre las previsiones de superficies, producciones, exportacion y precio del aceite de cada provincia de Andalucía. 
 - **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-04)
 - **URL**: [por determinar](#)
@@ -97,7 +97,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [José Manuel Hernández Hermida](https://github.com/jomaher)
-  - [alumno-sos-1](https://github.com/alumno-sos-1)
+  - [Heliodoro García Mora](https://github.com/heliogm1)
 - **Descripción breve del trabajo**: Relación que existe entre el nivel de inversión en I+D y enseñanza, la difusión de software libre por parte de las universidades y la posición de las universidades en el rankingde Shanghai
 - **Repositiorio**: [SOS1617/SOS1617-12](https://github.com/SOS1617/SOS1617-12)
 - **URL**: [por determinar](#)
