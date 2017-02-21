@@ -49,3 +49,12 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Descripción breve del trabajo**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre el número de establecimientos de alojamiento turístico, la cerveza favorita y el campeón de motociclismo a nivel europeo.
 - **Repositiorio**: [SOS1617/SOS1617-10](https://github.com/SOS1617/SOS1617-10)
 - **URL**: [por determinar](#)
+- 
+## SOS1617-12
+
+- **Integrantes**
+  - [José Manuel Hernández Hermida](https://github.com/jomaher)
+  - [alumno-sos-1](https://github.com/alumno-sos-1)
+- **Descripción breve del trabajo**: Relación que existe entre el nivel de inversión en I+D y enseñanza, la difusión de software libre por parte de las universidades y la posición de las universidades en el rankingde Shanghai
+- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-12)
+- **URL**: [por determinar](#)
