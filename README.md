@@ -36,7 +36,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [Álvaro Manzano Rueda](https://github.com/NSMMANZANO)
-  - [José Antonio López Fernández](https://github.com/joslopfer5)
+  - [José Antonio López Fernández ](https://github.com/joslopfer5)
   - [Julio Prieto Pino](https://github.com/julpripin)
 - **Descripción breve del trabajo**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre la tasa de natalidad, el salario medio y el gasto en educación.
 - **Repositiorio**: [SOS1617/SOS1617-07](https://github.com/SOS1617/SOS1617-07)
