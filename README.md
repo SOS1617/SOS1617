@@ -88,7 +88,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
   - [Adrián Pérez Gutiérrez](https://github.com/adrpergut)
   - [alumno-sos-1](https://github.com/alumno-sos-1)
 - **Descripción breve del trabajo**: pruebas para SOS
-- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-11)
+- **Repositiorio**: [SOS1617/SOS1617-11](https://github.com/SOS1617/SOS1617-11)
 - **URL**: [por determinar](#)
 
 
