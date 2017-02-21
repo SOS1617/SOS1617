@@ -12,6 +12,16 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-00)
 - **URL**: [por determinar](#)
 
+## SOS1617-02
+
+- **Integrantes**
+  - [José Gallardo Gallardo](https://github.com/Sojer23)
+  - [Antoni Mujico ](https://github.com/AntoniMujico)
+  - [Andrés García Castilla](https://github.com/Garcicasti)
+- **Descripción breve del trabajo**: Análisis de la influencia de la renta per cápita en el salario mínimo interprofesional de cada país. Y cómo este SMI influye en el PIB del país.
+- **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-02)
+- **URL**: [por determinar](#)
+
 #SOS1617-05
 
 - **Integrantes**
