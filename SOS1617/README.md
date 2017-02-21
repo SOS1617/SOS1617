@@ -87,8 +87,8 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [Adrián Pérez Gutiérrez](https://github.com/adrpergut)
   - [alumno-sos-1](https://github.com/alumno-sos-1)
-- **Descripción breve del trabajo**: pruebas para SOS
-- **Repositiorio**: [SOS1617/SOS1617-00](https://github.com/SOS1617/SOS1617-11)
+- **Descripción breve del trabajo**: Analizar la relación existente entre los campeones de la Uefa Champions League, los campeones de la liga de fútbol español y la clasificación del pichichi (mayor goleador de la temporada) de dicha liga de los últimos años.
+- **Repositiorio**: [SOS1617/SOS1617-11](https://github.com/SOS1617/SOS1617-11)
 - **URL**: [por determinar](#)
 
 
