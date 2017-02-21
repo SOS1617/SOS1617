@@ -86,6 +86,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [José Manuel Hernández Hermida](https://github.com/jomaher)
+  - [Heliodor García Mora](https://github.com/heliogm1)
   - [alumno-sos-1](https://github.com/alumno-sos-1)
 - **Descripción breve del trabajo**: Relación que existe entre el nivel de inversión en I+D y enseñanza, la difusión de software libre por parte de las universidades y la posición de las universidades en el rankingde Shanghai
 - **Repositiorio**: [SOS1617/SOS1617-12](https://github.com/SOS1617/SOS1617-12)
