@@ -55,6 +55,16 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [por determinar](#)
  
+##SOS1617-06
+
+- **Integrantes**
+  - [Mateusz Dominik](https://github.com/seewip)
+  - [Leal Exhevarría](https://github.com/Crileaech)
+  - [Jihane Fahri Cristina](https://github.com/JihaneF)
+- **Descripción breve del trabajo**: Compare expenses on education
+- **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-06)
+- **URL**: [por determinar](#)
+
 ##SOS1617-07
 
 - **Integrantes**
