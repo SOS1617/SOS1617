@@ -29,7 +29,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [José Gallardo Gallardo](https://github.com/Sojer23)
   - [Andrés García Castilla](https://github.com/Garcicasti)
-  - [*Completar*](https://github.com/Usuario2)
+  - [Antoni Mujico](https://github.com/AntoniMujico)
 - **Descripción breve del trabajo**: Análisis de la relación existente entre renta per cápita(RPC), salario mínimo interprofesional(SMI) y producto interior bruto (PIB) de cada país.
 - **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-02)
 - **URL**: [por determinar](#)
