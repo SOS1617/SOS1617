@@ -130,7 +130,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [Luciano Del Valle Cano](https://github.com/lucdelcan)
-  - [Victor Canseco Magro]()
+  - [Victor Canseco Magro](https://github.com/viccanmag)
 - **Descripción breve del trabajo**: pruebas para SOS
 - **Repositiorio**: [SOS1617/SOS1617-12](https://github.com/SOS1617/SOS1617-13)
 - **URL**: [por determinar](#)
