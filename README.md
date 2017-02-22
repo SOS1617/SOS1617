@@ -59,7 +59,8 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [Alberto Jesús García-Márquez Varela](https://github.com/Albertogmv)
-  - [alumno-sos-1](https://github.com/alumno-sos-1)
+  - [Ignacio Peluaga Lozada](https://github.com/ignpelloz)
+  - [Antonio Perez Solis](https://github.com/antoniops96)
 - **Descripción breve del trabajo**: Analizar la relación que existe entre el nivel de formación por comunidades Autónomas, con la situación económica y el empleo en España.
 - **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [por determinar](#)
