@@ -34,7 +34,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-02)
 - **URL**: [por determinar](#)
 
-##SOS1617-03
+## SOS1617-03
 
 - **Integrantes**
   - [Rubén Ramos Márquez](https://github.com/unfricapore)
@@ -44,7 +44,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-03](https://github.com/SOS1617/SOS1617-03)
 - **URL**: [por determinar](#)
 
-##SOS1617-04
+## SOS1617-04
 
 - **Integrantes**
   - [Luis García Zafra](https://github.com/luisgzafra)
@@ -55,7 +55,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **URL**: [por determinar](#)
 
 
-##SOS1617-05
+## SOS1617-05
 
 - **Integrantes**
   - [Alberto Jesús García-Márquez Varela](https://github.com/Albertogmv)
@@ -64,17 +64,17 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [por determinar](#)
  
-##SOS1617-06
+## SOS1617-06
 
 - **Integrantes**
   - [Mateusz Dominik](https://github.com/seewip)
-  - [Cristina Leal Exhevarría](https://github.com/Crileaech)
+  - [Cristina Leal Echevarría](https://github.com/Crileaech)
   - [Jihane Fahri](https://github.com/JihaneF)
 - **Descripción breve del trabajo**: Compare expenses on education
-- **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-06)
+- **Repositiorio**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
 - **URL**: [por determinar](#)
 
-##SOS1617-07
+## SOS1617-07
 
 - **Integrantes**
   - [Álvaro Manzano Rueda](https://github.com/NSMMANZANO)
@@ -110,7 +110,8 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [Adrián Pérez Gutiérrez](https://github.com/adrpergut)
-  - [alumno-sos-1](https://github.com/alumno-sos-1)
+  - [David Bonilla Díaz](https://github.com/davidbonilla37)
+  - [Andrés Fernández Gómez](https://github.com/andfergom)
 - **Descripción breve del trabajo**: Analizar la relación existente entre los campeones de la Uefa Champions League, los campeones de la liga de fútbol español y la clasificación del pichichi (mayor goleador de la temporada) de dicha liga de los últimos años.
 - **Repositiorio**: [SOS1617/SOS1617-11](https://github.com/SOS1617/SOS1617-11)
 - **URL**: [por determinar](#)
