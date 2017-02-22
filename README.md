@@ -34,6 +34,15 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-02)
 - **URL**: [por determinar](#)
 
+##SOS1617-03
+
+- **Integrantes**
+  - [Rubén Ramos Márquez](https://github.com/unfricapore)
+  - [Iván Rondán García](https://github.com/IvanRG21)
+  - [Raúl Vizuete Sánchez](https://github.com/byRuly)
+- **Descripción breve del trabajo**:Analizar y comparar la inversión de cada Comunidad Autónoma cada año con los resultados de los informes PISA y la tasa de abandono escolar en cada CCAA.
+- **Repositiorio**: [SOS1617/SOS1617-04](https://github.com/SOS1617/SOS1617-03)
+- **URL**: [por determinar](#)
 
 ##SOS1617-04
 
