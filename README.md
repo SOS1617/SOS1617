@@ -99,7 +99,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 
 - **Integrantes**
   - [Nuria Triguero Ojeda](https://github.com/nurtrioje)
-  - [Jesús David Segovia Guerrero](https://github.com/jesusguerre)
+  - [Jesús David Segovia Guerrer](https://github.com/jesusguerre)
   - [David Bote Cabeza](https://github.com/daboca92) 
 - **Descripción breve del trabajo**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre el número de establecimientos de alojamiento turístico, la cerveza favorita y el campeón de motociclismo a nivel europeo.
 - **Repositiorio**: [SOS1617/SOS1617-10](https://github.com/SOS1617/SOS1617-10)
