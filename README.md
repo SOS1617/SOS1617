@@ -64,7 +64,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [por determinar](#)
  
-##SOS1617-06
+## SOS1617-06
 
 - **Integrantes**
   - [Mateusz Dominik](https://github.com/seewip)
