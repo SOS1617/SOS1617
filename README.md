@@ -70,7 +70,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
   - [Mateusz Dominik](https://github.com/seewip)
   - [Cristina Leal Echevarría](https://github.com/Crileaech)
   - [Jihane Fahri](https://github.com/JihaneF)
-- **Descripción breve del trabajo**: Compare expenses on education
+- **Descripción breve del trabajo**: Compare expenses on education between three countries, Spain, Poland and Morocco
 - **Repositiorio**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
 - **URL**: [por determinar](#)
 
