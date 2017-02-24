@@ -75,10 +75,6 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Descripción breve del trabajo**: Compare expenses on education between three countries, Spain, Poland and Morocco
 - **Repositiorio**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
 - **URL**: [por determinar](#)
-- **Project description**: Compare expenses on education
-- **Repository**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
-- **URL**: [TBD](#)
-
 
 ## SOS1617-07
 
