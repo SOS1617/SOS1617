@@ -96,7 +96,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Repository**: [SOS1617/SOS1617-08](https://github.com/SOS1617/SOS1617-08)
 - **URL**:[TBD](#)
 
-##SOS1617-09
+## SOS1617-09
 
 - **Team**
   - [Verónica Vela Palomo](https://github.com/kkdekiki)
