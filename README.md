@@ -60,8 +60,8 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Team**
   - [Alberto Jesús García-Márquez Varela](https://github.com/Albertogmv)
   - [Ignacio Peluaga Lozada](https://github.com/ignpelloz)
-  - [Antonio Perez Solis](https://github.com/antoniops96)
-- **Project description**: Analizar la relación que existe entre el nivel de formación por comunidades Autónomas, con la situación económica y el empleo en España.
+  - [Antonio Pérez Solís](https://github.com/antoniops96)
+- **Project description**: Analyze, at provincial level, what relation there is between the economic situation, the employment and the education levels in Spain.
 - **Repository**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [TBD](#)
  
