@@ -102,8 +102,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Verónica Vela Palomo](https://github.com/kkdekiki)
   - [Manuel Jesús Torres Rincón](https://github.com/mjtr)
   - [Luis Ponte Gonzáles Calero](https://github.com/lpontegc)
-- **Project description**: Nuestras fuentes de información están orientadas a analizar la relación que existe entre el uso de Internet, 
-los ciberdelitos y la media de gasto en tic en los hogares españoles. 
+- **Project description**: Our sources of information are oriented to analyze the relationship between the use of the Internet, the cases of AIDS in the EU and the average spending on ICT in Spanish households. 
 - **Repository**: [SOS1617/SOS1617-09](https://github.com/SOS1617/SOS1617-09)
 - **URL**:[TBD](#) 
 
