@@ -114,7 +114,7 @@ los ciberdelitos y la media de gasto en tic en los hogares españoles.
   - [Nuria Triguero Ojeda](https://github.com/nurtrioje)
   - [Jesús David Segovia Guerrero](https://github.com/jesusguerre)
   - [David Bote Cabeza](https://github.com/daboca92) 
-- **Project description**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre el número de establecimientos de alojamiento turístico, la cerveza favorita y el campeón de motociclismo a nivel europeo.
+- **Project description**: Our sources of information are aimed at analyzing the relationship between the number of tourist accommodation establishments, the favorite beer and the champion of motorcycling at European level.
 - **Repository**: [SOS1617/SOS1617-10](https://github.com/SOS1617/SOS1617-10)
 - **URL**: [TBD](#)
 
