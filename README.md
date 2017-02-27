@@ -50,7 +50,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Luis García Zafra](https://github.com/luisgzafra)
   - [Alberto Sánchez Pérez ](https://github.com/albsanper)
   - [Adrián Méndez Ortiz](https://github.com/AdrianMnd)
-- **Project description**: Analizar la relación que existe entre las previsiones de superficies, producciones, exportacion y precio del aceite de cada provincia de Andalucía. 
+- **Project description**: Analyze the relationship between the forecasts of areas, production, export and oil price of each province of Andalucia.
 - **Repository**: [SOS1617/SOS1617-04](https://github.com/SOS1617/SOS1617-04)
 - **URL**: [TBD](#)
 
