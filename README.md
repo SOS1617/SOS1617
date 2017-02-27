@@ -30,7 +30,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [José Gallardo Gallardo](https://github.com/Sojer23)
   - [Andrés García Castilla](https://github.com/Garcicasti)
   - [Antoni Mujico](https://github.com/AntoniMujico)
-- **Project description**: Análisis de la relación existente entre renta per cápita(RPC), salario mínimo interprofesional(SMI) y producto interior bruto (PIB) de cada país.
+- **Project description**: Analysis of the relationship between per capita income (RPC), minimum interprofessional wage (SMI) and gross domestic product (GDP) of each country.
 - **Repository**: [SOS1617/SOS1617-02](https://github.com/SOS1617/SOS1617-02)
 - **URL**: [TBD](#)
 
