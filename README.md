@@ -40,7 +40,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Rubén Ramos Márquez](https://github.com/unfricapore)
   - [Iván Rondán García](https://github.com/IvanRG21)
   - [Raúl Vizuete Sánchez](https://github.com/byRuly)
-- **Project description**:Analizar y comparar la inversión de cada Comunidad Autónoma cada año con los resultados de los informes PISA y la tasa de abandono escolar en cada CCAA.
+- **Project description**: Analysis and comparison of the investment in education of each country with the results in the PISA reports and the early school leaving rates in those countries.
 - **Repository**: [SOS1617/SOS1617-03](https://github.com/SOS1617/SOS1617-03)
 - **URL**: [TBD](#)
 
