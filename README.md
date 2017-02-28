@@ -82,7 +82,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Álvaro Manzano Rueda](https://github.com/NSMMANZANO)
   - [José Antonio López Fernández ](https://github.com/joslopfer5)
   - [Julio Prieto Pino](https://github.com/julpripin)
-- **Project description**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre la tasa de natalidad, el salario medio y el gasto en educación.
+- **Project description**: Our sources of information are aimed at analyzing the relationship between the birth rate, the average wage and the expenditure on education in different countries.
 - **Repository**: [SOS1617/SOS1617-07](https://github.com/SOS1617/SOS1617-07)
 - **URL**: [TBD](#)
 
