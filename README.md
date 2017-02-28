@@ -144,7 +144,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Team**
   - [Luciano Del Valle Cano](https://github.com/lucdelcan)
   - [Victor Canseco Magro](https://github.com/viccanmag)
-- **Project description**: pruebas para SOS
+- **Project description**: Analysis of sports results
 - **Repository**: [SOS1617/SOS1617-12](https://github.com/SOS1617/SOS1617-13)
 - **URL**: [TBD](#)
 
