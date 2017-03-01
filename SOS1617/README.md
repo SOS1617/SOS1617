@@ -52,7 +52,18 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Descripción breve del trabajo**: Analizar la relación que existe entre el nivel de formación por comunidades Autónomas,con la situación económica y el empleo en España.
 - **Repositiorio**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [por determinar](#)
- 
+
+## SOS1617-06
+
+- **Team**
+  - [Mateusz Dominik](https://github.com/seewip)
+  - [Cristina Leal Echevarría](https://github.com/Crileaech)
+  - [Jihane Fahri](https://github.com/JihaneF)
+
+- **Descripción breve del trabajo**: Compare expenses on education between Spain, Poland and Morocco
+- **Repositiorio**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
+- **URL**: [por determinar](#)
+
 #SOS1617-07
 
 - **Integrantes**
