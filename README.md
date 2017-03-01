@@ -19,8 +19,8 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Irene Pavón Fernández](https://github.com/1993irene)
   - [Beatriz Ruiz Reina](https://github.com/bearuirei2)
   - [Alberto Rodríguez González](https://github.com/AlbertoAxel)
-- **Descripción breve del trabajo**: Analysis of the market of videogames,youth unemployment and the level of startups.
-- **Repositiorio**: [SOS1617/SOS1617-01](https://github.com/SOS1617/SOS1617-01)
+- **Project description**: Analysis of the market of videogames,youth unemployment and the level of startups.
+- **Repository**: [SOS1617/SOS1617-01](https://github.com/SOS1617/SOS1617-01)
 - **URL**: [por determinar](#)
 
 
@@ -61,7 +61,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Alberto Jesús García-Márquez Varela](https://github.com/Albertogmv)
   - [Ignacio Peluaga Lozada](https://github.com/ignpelloz)
   - [Antonio Pérez Solís](https://github.com/antoniops96)
-- **Project description**: Analyze, at provincial level, what relation there is between the economic situation, the employment and the education levels in Spain.
+- **Project description**: Analyze, at provincial level, what relation there is between the economic situation, the employment and what the spanish society voted on last elections.
 - **Repository**: [SOS1617/SOS1617-05](https://github.com/SOS1617/SOS1617-05)
 - **URL**: [TBD](#)
  
@@ -72,9 +72,9 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Cristina Leal Echevarría](https://github.com/Crileaech)
   - [Jihane Fahri](https://github.com/JihaneF)
 
-- **Descripción breve del trabajo**: Compare expenses on education between Spain, Poland and Morocco
-- **Repositiorio**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
-- **URL**: [por determinar](#)
+- **Project description**: Compare expenses on education between Spain, Poland and Morocco
+- **Repository**: [SOS1617/SOS1617-06](https://github.com/SOS1617/SOS1617-06)
+- **URL**: [TBD](#)
 
 ## SOS1617-07
 
@@ -102,7 +102,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Verónica Vela Palomo](https://github.com/kkdekiki)
   - [Manuel Jesús Torres Rincón](https://github.com/mjtr)
   - [Luis Ponte Gonzáles Calero](https://github.com/lpontegc)
-- **Project description**: Our sources of information are oriented to analyze the relationship between the use of the Internet, the cases of AIDS in the EU and the average spending on ICT in Spanish households. 
+- **Project description**: Our sources of information are oriented to analyze the relationship between the use of the Internet and telephone lines in Europe, the cases of AIDS in the EU and the average on ICT terminals in European households. 
 - **Repository**: [SOS1617/SOS1617-09](https://github.com/SOS1617/SOS1617-09)
 - **URL**:[TBD](#) 
 
@@ -124,7 +124,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
   - [Adrián Pérez Gutiérrez](https://github.com/adrpergut)
   - [David Bonilla Díaz](https://github.com/davidbonilla37)
   - [Andrés Fernández Gómez](https://github.com/andfergom)
-- **Project description**: Analizar la relación existente entre los campeones de la Uefa Champions League, los campeones de la liga de fútbol español y la clasificación del pichichi (mayor goleador de la temporada) de dicha liga de los últimos años.
+- **Project description**: Analysis the relationship between the champions of the Champions League, the champions of the Spanish soccer league and the classification of pichichi (greatest scorer of the season) of the League of recent years.
 - **Repository**: [SOS1617/SOS1617-11](https://github.com/SOS1617/SOS1617-11)
 - **URL**: [TBD](#)
 
@@ -134,7 +134,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Team**
   - [José Manuel Hernández Hermida](https://github.com/jomaher)
   - [Heliodoro García Mora](https://github.com/heliogm1)
-  - [Adrian Vilaseco Jurado](https://github.com/adrianviljur)
+  - [Adrián Vilaseco Jurado](https://github.com/adrianviljur)
 - **Project description**: Analysis of the relationship between the level of investment in R & D and education, the spread of free software by universities and position of universities in the ranking of Shanghai.
 - **Repository**: [SOS1617/SOS1617-12](https://github.com/SOS1617/SOS1617-12)
 - **URL**: [TBD](#)
