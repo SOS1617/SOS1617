@@ -92,7 +92,7 @@ List of Projects registered in the course of **Service Oriented Systems** (2016/
 - **Team**
   - [Roberto Mantas Nakhai](https://github.com/RobertoMantas)
   - [Francisco Varela Lucena](https://github.com/fravarluc)
-- **Project description**: Analysis and relation of the victims of gender violence and the average wages of different countries and years.
+- **Project description**: Analysis and relation of the victims of gender violence and the average wages of different provinces in spain and in different years.
 - **Repository**: [SOS1617/SOS1617-08](https://github.com/SOS1617/SOS1617-08)
 - **URL**:[TBD](#)
 
