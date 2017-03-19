@@ -79,7 +79,7 @@ Este es el repositorio de la asignatura **Sistemas Orientados a Servicios** en e
 - **Integrantes**
   - [Roberto Mantas Nakhai] (https://github.com/RobertoMantas)
   - [Francisco Varela Lucena](https://github.com/fravarluc)
-- **Descripción breve del trabajo**: Análisis y relación de víctimas de violencia de género y salarios medio de distintos países por distintos años.
+- **Descripción breve del trabajo**: Análisis y relación de víctimas de violencia de género y salarios medio de distintas provincias de España en distintos años.
 - **Repositiorio**: [SOS1617/SOS1617-08](https://github.com/SOS1617/SOS1617-08)
 - **URL**:[por determinar](#)
 - 
